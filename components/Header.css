@@ -1,0 +1,11 @@
+.username > h4 {
+	margin:20px;
+    }
+    
+  .avatar{
+	  cursor: pointer;
+ }
+
+ .navbar-item{
+   color: white;
+ }

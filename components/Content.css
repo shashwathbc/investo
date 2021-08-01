@@ -1,0 +1,36 @@
+.content{
+   position: relative;
+   width: 1200px;
+   height: 800px;
+   margin:240px auto;
+   background: black;
+   
+}
+.content .box{
+     position: relative;
+     width: 370px ;
+     height: 370px ;
+     background: white;
+     float:left;
+     margin: 15px;
+     box-sizing: border-box;
+     overflow: hidden;
+     border-radius: 10px ;
+}
+
+.content .box .info{
+	position: absolute;
+	text-align: center;
+	color: black;
+	height: 100%;
+	padding: 20px;
+	box-sizing: border-box;
+}
+.Container {
+  min-height: calc(100vh - 70px);
+  padding: 0 calc(3.5vw + 5px);
+  position: relative;
+  overflow-x:hidden;
+  
+ 
+  }
